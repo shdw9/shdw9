@@ -1,6 +1,6 @@
 ###  
- <p align="center">👋 Hi! Im a CS student.  
- My current work focuses on are *advanced data structures*  
+ <p align="center">👋 Hi! Im a CS student.  <br />
+ My current work focuses on are *advanced data structures*  <br />
  *algorithms*, and *machine learning*.</p>
 
 <p align="center">
