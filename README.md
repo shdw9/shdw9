@@ -1,10 +1,14 @@
-###  👋 Hi! Im a CS student.
+###  
+<p align="center">
+ 👋 Hi! Im a CS student.
  My current work focuses on are *advanced data structures*
 *algorithms*, and *machine learning*.
 
 👉 Contact me on Discord @shdw#0009
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F5799%2F40fd225c6a1a5de92a1a1da8df94cbb677440e52_hq.gif&f=1&nofb=1)
+
+</p>
 
 <!--
 **shdw9/shdw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
