@@ -2,7 +2,7 @@
 <p align="center">
   <br><br>
   <samp>
-    👋 Hey, Im a CS student @ SFSU.
+    👋 Hey, I'm a CS student @ SFSU.
     <br>My current main focuses are on <em>data structures</em>,
     <br>and <em>algorithms</em>.
     <br>I'm also learning HTML, CSS, and JS on the side
