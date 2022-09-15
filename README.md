@@ -4,7 +4,6 @@
   <samp>
     👋 Hey, I'm a Senior CS student @ SFSU.
     <br><br><img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>👉 Contact me on Discord @shdw#0009
   </samp>
 </p>
 
