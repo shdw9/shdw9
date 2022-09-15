@@ -2,9 +2,7 @@
 <p align="center">
   <br><br>
   <samp>
-    👋 Hey, I'm a CS student @ SFSU.
-    <br>My current main focuses are on <em>data structures</em>,
-    <br>and <em>algorithms</em>.
+    👋 Hey, I'm a Senior CS student @ SFSU.
     <br><br><img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>👉 Contact me on Discord @shdw#0009
   </samp>
