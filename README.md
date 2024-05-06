@@ -2,7 +2,7 @@
 <p align="center">
   <br><br>
   <samp>
-    👋 Hey, I'm a Senior CS student @ SFSU.
+    👋 Hey, I graduated in CS @ SFSU.
     <br><br><img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
